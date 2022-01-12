@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_CrossSiteScripting", "01_CrossSiteScripting\01_CrossSiteScripting.csproj", "{C4B6A3D7-3BE0-4CD5-8D05-0EE8A4A1D238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_FileUploading", "02_FileUploading\02_FileUploading.csproj", "{39ABF4F8-F47A-412F-9746-CC1ADFC52279}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4B6A3D7-3BE0-4CD5-8D05-0EE8A4A1D238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B6A3D7-3BE0-4CD5-8D05-0EE8A4A1D238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B6A3D7-3BE0-4CD5-8D05-0EE8A4A1D238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B6A3D7-3BE0-4CD5-8D05-0EE8A4A1D238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39ABF4F8-F47A-412F-9746-CC1ADFC52279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39ABF4F8-F47A-412F-9746-CC1ADFC52279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39ABF4F8-F47A-412F-9746-CC1ADFC52279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39ABF4F8-F47A-412F-9746-CC1ADFC52279}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCBD3B3F-01E9-4DC3-8B8F-EBBEF876679E}
+	EndGlobalSection
+EndGlobal

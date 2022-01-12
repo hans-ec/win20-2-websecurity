@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c4b6a3d7-3be0-4cd5-8d05-0ee8a4a1d238": {
+      "ProjectGuid": "c4b6a3d7-3be0-4cd5-8d05-0ee8a4a1d238",
+      "DisplayName": "01_CrossSiteScripting",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "39abf4f8-f47a-412f-9746-cc1adfc52279": {
+      "ProjectGuid": "39abf4f8-f47a-412f-9746-cc1adfc52279",
+      "DisplayName": "02_FileUploading",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
