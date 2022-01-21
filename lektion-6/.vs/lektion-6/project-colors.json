@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4b9667fe-8c3a-4c6b-95f3-969d9ca8fd62": {
+      "ProjectGuid": "4b9667fe-8c3a-4c6b-95f3-969d9ca8fd62",
+      "DisplayName": "01_AspNetMVC_LocalIdentity",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0129cb56-8b4b-44f3-a1c3-d5bf0f4ac83b": {
+      "ProjectGuid": "0129cb56-8b4b-44f3-a1c3-d5bf0f4ac83b",
+      "DisplayName": "01_AspNetMVC_LocalIdentity",
+      "ColorIndex": 1
+    },
+    "0dde92dc-71a9-42d6-944b-f46afb0d73cb": {
+      "ProjectGuid": "0dde92dc-71a9-42d6-944b-f46afb0d73cb",
+      "DisplayName": "01_BlazorWebAssembly_LocalIdentity",
+      "ColorIndex": 2
+    },
+    "c2c6faa4-006f-48ee-992c-63bb3e0cd2cb": {
+      "ProjectGuid": "c2c6faa4-006f-48ee-992c-63bb3e0cd2cb",
+      "DisplayName": "02_AspNetMVC_AzureAD",
+      "ColorIndex": 3
+    },
+    "73227fdc-cf8c-4b3b-a9c1-73b0e3c40dd0": {
+      "ProjectGuid": "73227fdc-cf8c-4b3b-a9c1-73b0e3c40dd0",
+      "DisplayName": "03_AspNetMVC_AzureADB2C",
+      "ColorIndex": 4
+    },
+    "77e9c9d1-2da1-4317-8dfc-85727a2b1427": {
+      "ProjectGuid": "77e9c9d1-2da1-4317-8dfc-85727a2b1427",
+      "DisplayName": "04_BlazorWasm_AzureADB2C",
+      "ColorIndex": 5
+    },
+    "bf11d5fc-4349-4bd9-b3d0-ea8fa977fdea": {
+      "ProjectGuid": "bf11d5fc-4349-4bd9-b3d0-ea8fa977fdea",
+      "DisplayName": "05_BlazorWasm_AzureAD",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
